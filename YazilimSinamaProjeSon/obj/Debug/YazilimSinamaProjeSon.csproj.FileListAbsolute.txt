@@ -1,0 +1,55 @@
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe.config
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form1.resources
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form2.resources
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form3.resources
+C:\Users\Lenovo\source\repos\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form4.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe.config
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csprojAssemblyReference.cache
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form1.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form2.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form3.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form4.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Properties.Resources.resources
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.GenerateResource.cache
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Kübra\source\repos\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe.config
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form1.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form2.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form3.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form4.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Giris.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\Downloads\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe.config
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\bin\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form2.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form3.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form4.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Giris.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.exe
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.pdb
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.AnaGiris.resources
+C:\Users\Lenovo\Desktop\Yazılım Sınama Final Ödevleri\YazilimSinamaProjeSon (1)\YazilimSinamaProjeSon\YazilimSinamaProjeSon\obj\Debug\YazilimSinamaProjeSon.Form1.resources
